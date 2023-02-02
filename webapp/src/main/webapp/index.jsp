@@ -4,7 +4,7 @@
 Registration Page  
 </title>  
 </head>  
-<body bgcolor="Lightskyblue">  
+<body bgcolor="Lightorange">  
 <br>  
 <br>  
 <form>  
@@ -57,7 +57,8 @@ Password:
 <input type="Password" id="pass" name="pass"> <br>   
 <br> <br>  
 Re-type password:  
-<input type="Password" id="repass" name="repass"> <br> <br>  
+<input type="Password" id="repass" name="repass"> <br> <br> 
+kyun Hila dala na
 <input type="button" value="Submit"/>  
 </form>  
 </body>  
