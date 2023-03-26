@@ -4,12 +4,11 @@
 New User Registration Page  
 </title>  New User Registration Page
 </head>  
-<body bgcolor="MistyRose">  
+<body bgcolor="Azure">  
 <br>  
 <br>  
 <form>  
- 
-</title>  New User Registration Page  
+  
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
