@@ -2,13 +2,14 @@
 <head>   
 <title>  
 New User Registration Page  
-</title>  
+</title>  New User Registration Page
 </head>  
 <body bgcolor="MistyRose">  
 <br>  
 <br>  
 <form>  
-  
+ 
+</title>  New User Registration Page  
 <label> Firstname </label>         
 <input type="text" name="firstname" size="15"/> <br> <br>  
 <label> Middlename: </label>     
@@ -51,6 +52,9 @@ Address
 </textarea>  
 <br> <br>  
 Email:  
+<input type="email" id="email" name="email"/> <br>    
+<br> <br>  
+Email Secondary:  
 <input type="email" id="email" name="email"/> <br>    
 <br> <br>  
 Password:  
