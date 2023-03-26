@@ -1,10 +1,10 @@
 <Html>  
 <head>   
 <title>  
-Registration Page  
+New User Registration Page  
 </title>  
 </head>  
-<body bgcolor="light blue">  
+<body bgcolor="MistyRose">  
 <br>  
 <br>  
 <form>  
