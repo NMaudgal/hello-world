@@ -3,7 +3,7 @@
 <title>
 </title>  New User Registration Page
 </head>  
-<body bgcolor="Gold">  
+<body bgcolor="MediumSeaGreen">  
 <br>  
 <br>  
 <form>  
